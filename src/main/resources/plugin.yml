@@ -1,0 +1,7 @@
+api-version: 1.16
+name: SponsorPlugin
+version: 1.0
+author: The SponsorPlugin Dev Team
+main: com.sponsorplugin.sponsorplugin.SponsorPlugin
+description: The SponsorPlugin Open Source Project
+commands:
